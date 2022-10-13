@@ -2,11 +2,10 @@
 
 This repository holds my dissertation for the title of MSc in Business Analytics at Imperial College London
 
-* The full text can be found [here](docs/disaster_detection.pdf)
-* The accompanying Jupyter Notebooks are available both as rendered HTML and pure IPYNB
+* The full text can be found [here](https://raw.githubusercontent.com/ernestomonroy/twitter_disasters/main/docs/disaster_detection.pdf)
 * The analysis is split into two:
-  * The first, [found here](notebooks/disaster_detection.html), contains the data and feature engineering and the less computationally intensive models. 
-  * The second, [found here](notebooks/disaster_detection_bert.html), contains the BERT model that requires a much larger machine to run
+  * The first, [found here](notebooks/disaster_detection.ipynb), contains the data and feature engineering and the less computationally intensive models. 
+  * The second, [found here](notebooks/disaster_detection_bert.ipynb), contains the BERT model that requires a much larger machine to run
 
 ## Contact
 
